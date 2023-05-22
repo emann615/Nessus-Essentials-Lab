@@ -1,7 +1,5 @@
 # Nessus Essentials Lab: Vulnerability Management
 
- ### [YouTube Demonstration](https://www.youtube.com/watch?v=_r7OhxCgxOo&t=2s)
-
 ## Description
 Nessus is a proprietary vulnerability scanner developed by Tenable, Inc that can remotely scan a computer or network for vulnerabilities. In this lab, I will install Nessus Essentials on a Windows 10 virtual machine and use it to run three scans against the Windows Server 2022 domain controller I set up in my previous [Active Directory Home Lab](https://github.com/emann615/ActiveDirectoryLab).
 
