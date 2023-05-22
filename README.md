@@ -129,3 +129,11 @@ The first scan will be a non-credentialed scan before any updates have been appl
 5. Click **Install now** to install the updates.
 6. Keep installing updates until your system is completely up to date.
    * You may be required to restart the machine several times to apply the updates.
+
+### Part 8: Run Scan #3 (Credentialed) and View the Results
+
+1. Go back to the **PC 1** virtual machine and log in.
+2. From the **My Scans** page inside Nessus, click the **Launch** icon to begin running your second credentialed scan.
+3. Once the scan is complete, double click it to review the results.
+4. Select the **History** tab to compare the results of the three scans.
+   * Most of the vulnerabilities found after the first credentialed scan should now be fixed.
