@@ -23,6 +23,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * [Part 6: Run Scan 2 (Credentialed) and View the Results](#Part-6-Run-Scan-2-Credentialed-and-View-the-Results)
    * [Part 7: Update the Windows Server](#Part-7-Update-the-Windows-Server)
    * [Part 8: Run Scan 3 (Credentialed) and View the Results](#Part-8-Run-Scan-3-Credentialed-and-View-the-Results)
+   * [Results](#Results)
 
 ## Languages and Utilities Used
 
