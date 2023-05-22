@@ -19,7 +19,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * [Part 4: Create a New Scan in Nessus](#Part-4-Create-a-New-Scan-in-Nessus)
    * [Part 5: Run Scan 1 (Non-credentialed) and View the Results](#Part-5-Run-Scan-1-Non-credentialed-and-View-the-Results)
    * [Part 6: Run Scan 2 (Credentialed) and View the Results](#Part-6-Run-Scan-2-Credentialed-and-View-the-Results)
-   * [Part 7: Update the Windows Server](#Part-7-Update-the-Windows-Server)
+   * [Part 7: Update Windows Server 2022 on the Domain Controller](#Part-7-Update-Windows-Server-2022-on-the-Domain-Controller)
    * [Part 8: Run Scan 3 (Credentialed) and View the Results](#Part-8-Run-Scan-3-Credentialed-and-View-the-Results)
    * [Results](#Results)
 
@@ -122,7 +122,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 11. Select the **Vulnerabilities** tab to see a detailed list of vulnerabilities that were found after the credentialed scan.
     * The credentialed scan should find a lot more vulnerabilities than the non-credentialed scan.
 
-### Part 7: Update the Windows Server
+### Part 7: Update Windows Server 2022 on the Domain Controller
 
 1. Go back to the **DC** virtual machine, and log in.
 2. Click **Start**, and select **Settings**.
