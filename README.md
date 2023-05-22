@@ -108,7 +108,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 5. Click the bar that displays the vulnerability count to open up a detailed list of specific vulnerabilities that were found.
 6. Click each vulnerability to see more details, including a description and proposed solution for the vulnerability.
 
-### Part 6: Run Scan 2 (Credentialed) and View the  Results
+### Part 6: Run Scan 2 (Credentialed) and View the Results
 
 1. Go back to the **My Scans** page.
 2. Click the check box next to the scan.
