@@ -117,5 +117,5 @@ The first scan will be a non-credentialed scan before any updates have been appl
 8. Select the **History** tab to view a list of scans you have completed.
 9. Click each scan to review the results.
 10. Compare the results of the non-credentialed scan to the results of the credentialed scan you just ran.
-11. Select the Vulnerabilities tab to see a detailed list of vulnerabilities that were found after the credentialed scan.
+11. Select the **Vulnerabilities** tab to see a detailed list of vulnerabilities that were found after the credentialed scan.
     * The credentialed scan should find a lot more vulnerabilities than the non-credentialed scan.
