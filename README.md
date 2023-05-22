@@ -44,9 +44,12 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * [Part 7: Update the Windows Server](#part-7-install-active-directory-domain-services-and-create-your-domain)
    * [Part 8: Run Scan #3 (Credentialed) and View the Results](#part-8-create-dedicate-domain-admin-account)
 
-### Part 1: Install VirtualBox
+### Part 1: Download Nessus on the PC 1 VM
 
-1. Download **VirtualBox** by going to the following link: https://www.virtualbox.org/wiki/Downloads
-   * Download the version for whatever OS you are using.
-2. Download the **VirtualBox Extension Pack** from the same page.
-3. Open the files you downloaded to install **VirtualBox** and the **VirtualBox Extension Pack**.
+1. Start up the **DC** virtual machine and the PC 1 virtual machine.
+2. Log in to the **PC 1** virtual machine using the admin account you created in Active Directory.
+3. Open **Microsoft Edge**.
+4. Go to the following link: https://www.tenable.com/downloads/nessus 
+5. Under **Version**, make sure the latest version of Nessus is selected.
+6. Under **Platform**, make sure **Windows - x86_64** is selected.
+7. Click **Download**, and click **I Agree on the License Agreement**.
