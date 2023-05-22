@@ -143,6 +143,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 
 ## Results
 
+### Scan 1 Results (Non-credentialed)
 | Risk Raiting | Count | Percentage |
 | --- | --- | --- |
 | Critical | 0 | 0.00% |
