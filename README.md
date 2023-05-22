@@ -168,7 +168,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 | --- | --- | --- |
 | Critical | 0 | 0.00% |
 | High | 0 | 0.00% |
-| Medium | 1 | 1.45% |
-| Low | 1 | 1.45% |
-| Info | 67 | 97.10% |
-| **Total** | **69** | **100.00%** |
+| Medium | 1 | 1.09% |
+| Low | 1 | 1.09% |
+| Info | 90 | 97.83% |
+| **Total** | **92** | **100.00%** |
