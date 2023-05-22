@@ -53,3 +53,27 @@ The first scan will be a non-credentialed scan before any updates have been appl
 5. Under **Version**, make sure the latest version of Nessus is selected.
 6. Under **Platform**, make sure **Windows - x86_64** is selected.
 7. Click **Download**, and click **I Agree on the License Agreement**.
+
+### Part 2: Install Nessus on the PC 1 VM
+
+1. Once Nessus has finished downloading, double click the file to start the installation process
+2. Once the installation wizard pops up, click **Next**.
+3. Select **I accept the terms in the license agreement**, and click **Next**.
+4. Click **Next** again, and click **Install** on the last page.
+5. Click **Yes** when asked “Do you want to allow this app to make changes to your device?”.
+6. Once Nessus has finished installing, click **Finish**.
+7. A new page will open up in **Microsoft Edge**. Click **Connect via SSL**.
+8. Click **Advanced**, and click **Continue to local host (unsafe)**.
+9. Once Nessus has finished initializing, click **Continue**.
+10. Select **Register for Nessus Essentials**, and click **Continue**.
+11. Under **Get an activation code**, type in your first name, last name, and email.
+12. Click **Register**, and an activation code will be sent to your email.
+13. Find the activation code that was sent to your email
+14. Enter the code in the box under **Activation Code**, and click **Continue**.
+15. On the **License Information** page, click **Continue** again
+16. Create a username and password for Nessus. Then click **Submit**.
+17. Wait for the plugins to finish downloading then you will be taken to the **My Scans** page inside Nessus.
+18. Before you can create your first scan, you will have to wait for the plugins to finish downloading.
+    * You can hover your mouse over the spinning circle icon in the top menu bar to track the progress.
+19. Copy and save the local URL for Nessus so it is easy to access in the future.
+    * **Nessus URL:**  https://localhost:8834/# 
