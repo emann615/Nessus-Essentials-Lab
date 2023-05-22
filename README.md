@@ -95,3 +95,12 @@ The first scan will be a non-credentialed scan before any updates have been appl
 5. In the box next to **Targets**, type in the IP address of your domain controller.
 6. Click **Save** to save your scan.
 
+### Part 5: Run Scan #1 (Non-credentialed) and View the Results
+
+From the My Scans page, click the Launch icon to begin running your scan.
+Wait for the scan to finish. You will see a check mark next to the scan once it is complete.
+Double click the scan to view the results.
+In the Host tab you will see a bar that displays the vulnerability count and graphical depiction of the vulnerabilities that were found based on percentage.
+Vulnerabilities are categorized based on their risk level (Critical, High, Medium, Low, Info).
+Click the bar that displays the vulnerability count to open up a detailed list of specific vulnerabilities that were found.
+Click each vulnerability to see more details, including a description and proposed solution for the vulnerability.
