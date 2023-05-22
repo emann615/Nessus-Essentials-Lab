@@ -16,8 +16,8 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * [Environments Used](#Environments-Used)
    * [Prerequisite](#Prerequisite)
    * [Part 1: Download Nessus on the PC 1 VM](#Part-1-Download-Nessus-on-the-PC-1-VM)
-   * [Part 2: Install Nessus on the PC 1 VM](#part-2-download-windows-10-and-windows-server-2022-iso-files)
-   * [Part 3: Find the IP address of the Domain Controller](#part-3-create-domain-controller-virtual-machine)
+   * [Part 2: Install Nessus on the PC 1 VM](#Part-2-Install-Nessus-on-the-PC-1-VM)
+   * [Part 3: Find the IP Address of the Domain Controller](#Part-3-Find-the-IP-Address-of-the-Domain-Controller)
    * [Part 4: Create a New Scan in Nessus](#part-4-install-and-set-up-windows-server-2022-on-the-dc-virtual-machine)
    * [Part 5: Run Scan #1 (Non-credentialed) and View the Results](#part-5-install-virtualbox-guest-additions)
    * [Part 6: Run Scan #2 (Credentialed) and View the  Results](#part-6-set-up-ip-addressing-and-rename-the-pc)
@@ -81,7 +81,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 19. Copy and save the local URL for Nessus so it is easy to access in the future.
     * **Nessus URL:**  https://localhost:8834/# 
 
-### Part 3: Find the IP address of the Domain Controller
+### Part 3: Find the IP Address of the Domain Controller
 
 1. Go to the **DC** virtual machine, and log in.
 2. Click **Start**, and type cmd.
