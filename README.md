@@ -153,6 +153,8 @@ The first scan will be a non-credentialed scan before any updates have been appl
 | Info | 67 | 97.10% |
 | **Total** | **69** | **100.00%** |
 
+The first scan was a non-credentialed scan before any updates were applied to the domain controller. This scan produced 1 medium, 1 low, and 67 info results. Non-credentialed scans are not as useful as credentialed scans when trying to get an accurate view of vulnerabilities that exist on a device or network because they lack proper access. Non-credentialed scans cannot see vulnerabilities that may exist on parts of a device or network that are off limits without proper authentication. As a result, non-credentialed scans produce far less results than credentialed scans.
+
 ### Scan 2 Results (Credentialed)
 | Risk Raiting | Count | Percentage |
 | --- | --- | --- |
@@ -163,6 +165,9 @@ The first scan will be a non-credentialed scan before any updates have been appl
 | Info | 240 | 90.91% |
 | **Total** | **264** | **100.00%** |
 
+The second scan was a credentialed scan before any updates were applied to the domain controller. This scan produced 10 critical, 7 high, 6 medium, 1 low, and 240 info results. Since this scan was configured with the proper credentials, a lot more results were produced.
+
+
 ### Scan 3 Results (Credentialed)
 | Risk Raiting | Count | Percentage |
 | --- | --- | --- |
@@ -172,3 +177,6 @@ The first scan will be a non-credentialed scan before any updates have been appl
 | Low | 1 | 1.09% |
 | Info | 90 | 97.83% |
 | **Total** | **92** | **100.00%** |
+
+The third scan was a credentialed scan after updates had been applied to the domain controller. The results of this scan showed far less vulnerabilities than the previous credentialed scan I ran before updates were applied.This scan produced 1 medium, 1 low, and 90 info results. All of the critical and high level vulnerabilities were fixed, and the medium rank vulnerability appears to be a false positive. By making sure the operating system on my domain controller is completely up to date with all the latest patches, I was able to drastically reduce the number of vulnerabilities and increase its security posture.
+
