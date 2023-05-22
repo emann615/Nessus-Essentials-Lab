@@ -21,6 +21,17 @@ The first scan will be a non-credentialed scan before any updates have been appl
 * **Windows 10**
 * **Windows Server 2022**
 
+## Prerequisite:
+
+* Follow the steps in my Active Directory Home Lab to:
+   * Download and Install Oracle VirtualBox.
+   * Create a domain controller (DC) virtual machine running Windows Server 2022
+      * Make sure you do not install any system updates.
+   * Set up Active Directory on the  domain controller.
+   * Create a second virtual machine (PC 1) running Windows 10.
+   * Connect the PC 1 virtual machine to the domain.
+
+
 ## Table of Contents:
 
    * [Part 1: Install VirtualBox](#part-1-install-virtualbox)
