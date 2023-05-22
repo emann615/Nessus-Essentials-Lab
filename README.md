@@ -15,7 +15,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * [Languages and Utilities Used](#Languages-and-Utilities-Used)
    * [Environments Used](#Environments-Used)
    * [Prerequisite](#Prerequisite)
-   * [Part 1: Download Nessus on the PC 1 VM](#part-1-install-virtualbox)
+   * [Part 1: Download Nessus on the PC 1 VM](#Part-1-Download-Nessus-on-the-PC-1-VM)
    * [Part 2: Install Nessus on the PC 1 VM](#part-2-download-windows-10-and-windows-server-2022-iso-files)
    * [Part 3: Find the IP address of the Domain Controller](#part-3-create-domain-controller-virtual-machine)
    * [Part 4: Create a New Scan in Nessus](#part-4-install-and-set-up-windows-server-2022-on-the-dc-virtual-machine)
