@@ -104,3 +104,18 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * Vulnerabilities are categorized based on their risk level (Critical, High, Medium, Low, Info).
 5. Click the bar that displays the vulnerability count to open up a detailed list of specific vulnerabilities that were found.
 6. Click each vulnerability to see more details, including a description and proposed solution for the vulnerability.
+
+### Part 6: Run Scan #2 (Credentialed) and View the  Results
+
+1. Go back to the **My Scans** page.
+2. Click the check box next to the scan.
+3. Click the dropdown arrow next to **More**, and click **Configure**.
+4. Select the **Credentials** tab, and click **Windows**.
+5. Type in the username and password for the admin account you created in Active Directory, and click **Save**.
+6. Go back to the **My Scans** page, and click the **Launch** icon next to the scan to run it.
+7. Double click the scan to view the results.
+8. Select the **History** tab to view a list of scans you have completed.
+9. Click each scan to review the results.
+10. Compare the results of the non-credentialed scan to the results of the credentialed scan you just ran.
+11. Select the Vulnerabilities tab to see a detailed list of vulnerabilities that were found after the credentialed scan.
+    * The credentialed scan should find a lot more vulnerabilities than the non-credentialed scan.
