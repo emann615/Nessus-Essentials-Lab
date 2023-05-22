@@ -10,11 +10,11 @@ Nessus is a proprietary vulnerability scanner developed by Tenable, Inc that can
 The first scan will be a non-credentialed scan before any updates have been applied to the domain controller. The second scan will be a credentialed scan before any updates have been applied. The third and final scan will be a credentialed scan of the domain controller after updates have been applied. At the end of this lab, I will compare the results of the three scans.
 <br />
 
-## Table of Contents:
+## Table of Contents
 
    * [Languages and Utilities Used](#Languages-and-Utilities-Used)
-   * [Part 1: Download Nessus on the PC 1 VM](#part-1-install-virtualbox)
-   * [Part 1: Download Nessus on the PC 1 VM](#part-1-install-virtualbox)
+   * [Environments Used](#Environments-Used)
+   * [Prerequisite](#Prerequisite)
    * [Part 1: Download Nessus on the PC 1 VM](#part-1-install-virtualbox)
    * [Part 2: Install Nessus on the PC 1 VM](#part-2-download-windows-10-and-windows-server-2022-iso-files)
    * [Part 3: Find the IP address of the Domain Controller](#part-3-create-domain-controller-virtual-machine)
@@ -35,7 +35,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 * **Windows 10**
 * **Windows Server 2022**
 
-## Prerequisite:
+## Prerequisite
 
 * Follow the steps in my [Active Directory Home Lab](https://github.com/emann615/ActiveDirectoryLab) to:
    * Download and Install Oracle VirtualBox.
@@ -45,7 +45,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * Create a second virtual machine (PC 1) running Windows 10.
    * Connect the PC 1 virtual machine to the domain.
 
-## Walk-through:
+## Walk-through
 
 ### Part 1: Download Nessus on the PC 1 VM
 
