@@ -21,8 +21,8 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * [Part 4: Create a New Scan in Nessus](#Part-4-Create-a-New-Scan-in-Nessus)
    * [Part 5: Run Scan 1 (Non-credentialed) and View the Results](#Part-5-Run-Scan-1-Non-credentialed-and-View-the-Results)
    * [Part 6: Run Scan 2 (Credentialed) and View the Results](#Part-6-Run-Scan-2-Credentialed-and-View-the-Results)
-   * [Part 7: Update the Windows Server](#part-7-install-active-directory-domain-services-and-create-your-domain)
-   * [Part 8: Run Scan 3 (Credentialed) and View the Results](#part-8-create-dedicate-domain-admin-account)
+   * [Part 7: Update the Windows Server](#Part-7-Update-the-Windows-Server)
+   * [Part 8: Run Scan 3 (Credentialed) and View the Results](#Part-8-Run-Scan-3-Credentialed-and-View-the-Results)
 
 ## Languages and Utilities Used
 
