@@ -14,7 +14,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 
 * **VirtualBox** 
 * **Active Directory**
-* **PowerShell**
+* **Nessus Essentials**
 
 ## Environments Used
 
