@@ -1,9 +1,11 @@
-# Basic Home Lab Running Active Directory
+# Nessus Essentials Lab: Vulnerability Management
 
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=_r7OhxCgxOo&t=2s)
 
 ## Description
-Active Directory (AD) is a directory service created by Microsoft that runs on Windows Servers. It allows administrators to control what access and permissions users and computers have on a domain network. In this tutorial, I will show you how to set up an Active Directory home lab using Oracle VM VirtualBox and Windows Server 2022.
+Nessus is a proprietary vulnerability scanner developed by Tenable, Inc that can remotely scan a computer or network for vulnerabilities. In this lab, I will install Nessus Essentials on a Windows 10 virtual machine and use it to run three scans against the Windows Server 2022 domain controller I set up in my previous Active Directory Home Lab.
+<br />
+The first scan will be a non-credentialed scan before any updates have been applied to the domain controller. The second scan will be a credentialed scan before any updates have been applied. The third and final scan will be a credentialed scan of the domain controller after updates have been applied. At the end of this lab, I will compare the results of the three scans.
 <br />
 
 ## Languages and Utilities Used
