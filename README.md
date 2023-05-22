@@ -143,7 +143,11 @@ The first scan will be a non-credentialed scan before any updates have been appl
 
 ## Results
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Risk Raiting | Count | Percentage |
+| --- | --- | --- |
+| Critical | 0 | 0.00% |
+| High | 0 | 0.00% |
+| Medium | 1 | 1.45% |
+| Low | 1 | 1.45% |
+| Info | 67 | 97.10% |
+| **Total** | **69** | **100.00%** |
