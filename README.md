@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=_r7OhxCgxOo&t=2s)
 
 ## Description
-Nessus is a proprietary vulnerability scanner developed by Tenable, Inc that can remotely scan a computer or network for vulnerabilities. In this lab, I will install Nessus Essentials on a Windows 10 virtual machine and use it to run three scans against the Windows Server 2022 domain controller I set up in my previous Active Directory Home Lab.
+Nessus is a proprietary vulnerability scanner developed by Tenable, Inc that can remotely scan a computer or network for vulnerabilities. In this lab, I will install Nessus Essentials on a Windows 10 virtual machine and use it to run three scans against the Windows Server 2022 domain controller I set up in my previous [Active Directory Home Lab](https://github.com/emann615/ActiveDirectoryLab).
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -23,7 +23,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 
 ## Prerequisite:
 
-* Follow the steps in my Active Directory Home Lab to:
+* Follow the steps in my [Active Directory Home Lab](https://github.com/emann615/ActiveDirectoryLab) to:
    * Download and Install Oracle VirtualBox.
    * Create a domain controller (DC) virtual machine running Windows Server 2022
       * Make sure you do not install any system updates.
@@ -31,8 +31,9 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * Create a second virtual machine (PC 1) running Windows 10.
    * Connect the PC 1 virtual machine to the domain.
 
+## Walk-through:
 
-## Table of Contents:
+### Table of Contents:
 
    * [Part 1: Install VirtualBox](#part-1-install-virtualbox)
    * [Part 2: Download Windows 10 and Windows Server 2022 ISO Files](#part-2-download-windows-10-and-windows-server-2022-iso-files)
@@ -49,8 +50,6 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * [Part 13: Install and Set Up Windows 10 on the Client Virtual Machine](#part-13-install-and-set-up-windows-10-on-the-client-virtual-machine)
    * [Part 14: Rename the PC and Join the Domain](#part-14-rename-the-pc-and-join-the-domain)
    * [Part 15: Find the Client Computer on the Domain Controller](#part-15-find-the-client-computer-on-the-domain-controller)
-
-## Walk-through:
 
 ### Part 1: Install VirtualBox
 
