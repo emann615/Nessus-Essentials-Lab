@@ -140,3 +140,10 @@ The first scan will be a non-credentialed scan before any updates have been appl
 3. Once the scan is complete, double click it to review the results.
 4. Select the **History** tab to compare the results of the three scans.
    * Most of the vulnerabilities found after the first credentialed scan should now be fixed.
+
+## Results
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
