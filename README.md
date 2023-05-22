@@ -152,3 +152,23 @@ The first scan will be a non-credentialed scan before any updates have been appl
 | Low | 1 | 1.45% |
 | Info | 67 | 97.10% |
 | **Total** | **69** | **100.00%** |
+
+### Scan 2 Results (Credentialed)
+| Risk Raiting | Count | Percentage |
+| --- | --- | --- |
+| Critical | 10 | 3.79% |
+| High | 7 | 2.65% |
+| Medium | 6 | 2.27% |
+| Low | 1 | 0.38% |
+| Info | 240 | 90.91% |
+| **Total** | **264** | **100.00%** |
+
+### Scan 3 Results (Credentialed)
+| Risk Raiting | Count | Percentage |
+| --- | --- | --- |
+| Critical | 0 | 0.00% |
+| High | 0 | 0.00% |
+| Medium | 1 | 1.45% |
+| Low | 1 | 1.45% |
+| Info | 67 | 97.10% |
+| **Total** | **69** | **100.00%** |
