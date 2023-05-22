@@ -119,3 +119,13 @@ The first scan will be a non-credentialed scan before any updates have been appl
 10. Compare the results of the non-credentialed scan to the results of the credentialed scan you just ran.
 11. Select the **Vulnerabilities** tab to see a detailed list of vulnerabilities that were found after the credentialed scan.
     * The credentialed scan should find a lot more vulnerabilities than the non-credentialed scan.
+
+### Part 7: Update the Windows Server
+
+1. Go back to the **DC** virtual machine, and log in.
+2. Click **Start**, and select **Settings**.
+3. Click **Updates and Security**.
+4. Click **Windows Update**.
+5. Click **Install now** to install the updates.
+6. Keep installing updates until your system is completely up to date.
+   * You may be required to restart the machine several times to apply the updates.
