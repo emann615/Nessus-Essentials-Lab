@@ -142,7 +142,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 
 ## Results
 
-### Scan 1 Results (Non-credentialed)
+### Scan 1 (Non-credentialed) Results
 | Risk Raiting | Count | Percentage |
 | --- | --- | --- |
 | Critical | 0 | 0.00% |
@@ -154,7 +154,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 
 The first scan was a non-credentialed scan before any updates were applied to the domain controller. This scan produced 1 medium, 1 low, and 67 info results. Non-credentialed scans are not as useful as credentialed scans when trying to get an accurate view of vulnerabilities that exist on a device or network because they lack proper access. Non-credentialed scans cannot see vulnerabilities that may exist on parts of a device or network that are off limits without proper authentication. As a result, non-credentialed scans produce far less results than credentialed scans.
 
-### Scan 2 Results (Credentialed)
+### Scan 2 (Credentialed) Results
 | Risk Raiting | Count | Percentage |
 | --- | --- | --- |
 | Critical | 10 | 3.79% |
@@ -167,7 +167,7 @@ The first scan was a non-credentialed scan before any updates were applied to th
 The second scan was a credentialed scan before any updates were applied to the domain controller. This scan produced 10 critical, 7 high, 6 medium, 1 low, and 240 info results. Since this scan was configured with the proper credentials, a lot more results were produced.
 
 
-### Scan 3 Results (Credentialed)
+### Scan 3 (Credentialed) Results
 | Risk Raiting | Count | Percentage |
 | --- | --- | --- |
 | Critical | 0 | 0.00% |
