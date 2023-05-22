@@ -19,10 +19,10 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * [Part 2: Install Nessus on the PC 1 VM](#Part-2-Install-Nessus-on-the-PC-1-VM)
    * [Part 3: Find the IP Address of the Domain Controller](#Part-3-Find-the-IP-Address-of-the-Domain-Controller)
    * [Part 4: Create a New Scan in Nessus](#Part-4-Create-a-New-Scan-in-Nessus)
-   * [Part 5: Run Scan #1 (Non-credentialed) and View the Results](#Part-5-Run-Scan-#1-Non-credentialed-and-View-the-Results)
-   * [Part 6: Run Scan #2 (Credentialed) and View the  Results](#part-6-set-up-ip-addressing-and-rename-the-pc)
+   * [Part 5: Run Scan 1 (Non-credentialed) and View the Results](#Part-5-Run-Scan-1-Non-credentialed-and-View-the-Results)
+   * [Part 6: Run Scan 2 (Credentialed) and View the  Results](#part-6-set-up-ip-addressing-and-rename-the-pc)
    * [Part 7: Update the Windows Server](#part-7-install-active-directory-domain-services-and-create-your-domain)
-   * [Part 8: Run Scan #3 (Credentialed) and View the Results](#part-8-create-dedicate-domain-admin-account)
+   * [Part 8: Run Scan 3 (Credentialed) and View the Results](#part-8-create-dedicate-domain-admin-account)
 
 ## Languages and Utilities Used
 
@@ -98,7 +98,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 5. In the box next to **Targets**, type in the IP address of your domain controller.
 6. Click **Save** to save your scan.
 
-### Part 5: Run Scan #1 (Non-credentialed) and View the Results
+### Part 5: Run Scan 1 (Non-credentialed) and View the Results
 
 1. From the **My Scans** page, click the Launch icon to begin running your scan.
 2. Wait for the scan to finish. You will see a check mark next to the scan once it is complete.
@@ -108,7 +108,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 5. Click the bar that displays the vulnerability count to open up a detailed list of specific vulnerabilities that were found.
 6. Click each vulnerability to see more details, including a description and proposed solution for the vulnerability.
 
-### Part 6: Run Scan #2 (Credentialed) and View the  Results
+### Part 6: Run Scan 2 (Credentialed) and View the  Results
 
 1. Go back to the **My Scans** page.
 2. Click the check box next to the scan.
@@ -133,7 +133,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 6. Keep installing updates until your system is completely up to date.
    * You may be required to restart the machine several times to apply the updates.
 
-### Part 8: Run Scan #3 (Credentialed) and View the Results
+### Part 8: Run Scan 3 (Credentialed) and View the Results
 
 1. Go back to the **PC 1** virtual machine and log in.
 2. From the **My Scans** page inside Nessus, click the **Launch** icon to begin running your second credentialed scan.
