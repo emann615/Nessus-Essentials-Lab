@@ -77,3 +77,21 @@ The first scan will be a non-credentialed scan before any updates have been appl
     * You can hover your mouse over the spinning circle icon in the top menu bar to track the progress.
 19. Copy and save the local URL for Nessus so it is easy to access in the future.
     * **Nessus URL:**  https://localhost:8834/# 
+
+### Part 3: Find the IP address of the Domain Controller
+
+1. Go to the **DC** virtual machine, and log in.
+2. Click **Start**, and type cmd.
+3. Hit **Enter** to open **Command Prompt**.
+4. Type **ipconfig** into Command Prompt, and hit **Enter**.
+5. Find the address next to **IPv4 Address**.
+
+### Part 4: Create a New Scan in Nessus
+
+1. Go back to the **PC 1** virtual machine.
+2. Click **Create a new scan** in Nessus.
+3. Click **Basic Network Scan**.
+4. In the box next to **Name**, type in a name for your scan.
+5. In the box next to **Targets**, type in the IP address of your domain controller.
+6. Click **Save** to save your scan.
+
