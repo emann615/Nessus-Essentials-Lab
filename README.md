@@ -22,7 +22,6 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * [Part 7: Update Windows Server 2022 on the Domain Controller](#Part-7-Update-Windows-Server-2022-on-the-Domain-Controller)
    * [Part 8: Run Scan 3 (Credentialed) and View the Results](#Part-8-Run-Scan-3-Credentialed-and-View-the-Results)
    * [Results](#Results)
-   * [Conclusion](#Conclusion)
 
 ## Languages and Utilities Used
 
@@ -495,7 +494,7 @@ The second scan was a credentialed scan before any updates were applied to the d
 | Info | 90 | 97.83% |
 | **Total** | **92** | **100.00%** |
 
-The third scan was a credentialed scan after updates had been applied to the domain controller. The results of this scan showed far less vulnerabilities than the previous credentialed scan I ran before updates were applied.This scan produced 1 medium, 1 low, and 90 info results. All of the critical and high level vulnerabilities were fixed.
+The third scan was a credentialed scan after updates had been applied to the domain controller. The results of this scan showed far less vulnerabilities than the previous credentialed scan I ran before updates were applied. This scan produced 1 medium, 1 low, and 90 info results. All of the critical and high level vulnerabilities were fixed. These results demostrate the importance of schedueling regular vulnerability scan agaisnt networks and devices. They also show that keeping systems up to date with the latest patches can drastically reduce the number of vulnerabilities an attacker could exploit.
 
 #### False Positive Result
 The remaining medium rank vulnerability appears to be a false positive. 
@@ -511,8 +510,3 @@ The remaining medium rank vulnerability appears to be a false positive.
 <img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/e2f6d5fc-4ef6-4bc3-afa7-a5da638c12df" height="80%" width="80%"/>
 </br>
 </br>
-
-## Conclusion
-
-This lab demostrates the importance of schedueling regular vulnerability scan agaisnt your networks and devices. It also shows how keeping your systems up to date with the latest patches can drastically reduce the number of vulnerabilities and increase your security posture.
-
