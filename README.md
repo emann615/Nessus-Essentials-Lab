@@ -51,12 +51,36 @@ The first scan will be a non-credentialed scan before any updates have been appl
 1. Start up the **DC** virtual machine and the PC 1 virtual machine.
 2. Log in to the **PC 1** virtual machine using the admin account you created in Active Directory.
 3. Open **Microsoft Edge**.
-4. Go to the following link: https://www.tenable.com/downloads/nessus 
-5. Under **Version**, make sure the latest version of Nessus is selected.
-6. Under **Platform**, make sure **Windows - x86_64** is selected.
-7. Click **Download**, and click **I Agree on the License Agreement**.
 
 <img src="" height="80%" width="80%"/>
+</br>
+</br>
+
+4. Go to the following link: https://www.tenable.com/downloads/nessus 
+
+<img src="" height="80%" width="80%"/>
+</br>
+</br>
+
+5. Under **Version**, make sure the latest version of Nessus is selected.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/e16af465-0a76-43f6-97e7-ed5767cad7df" height="80%" width="80%"/>
+</br>
+</br>
+
+6. Under **Platform**, make sure **Windows - x86_64** is selected.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/c589b325-bd71-46b0-8d94-fce50e2912dc" height="80%" width="80%"/>
+</br>
+</br>
+
+7. Click **Download**, and click **I Agree on the License Agreement**.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/3f0a9c49-0365-4416-b9c1-f2257a8090e3" height="80%" width="80%"/>
+</br>
+</br>
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/3d599c82-998a-45b5-92e4-bbaac74f9f9d" height="80%" width="80%"/>
 </br>
 </br>
 
