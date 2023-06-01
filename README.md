@@ -134,7 +134,6 @@ The first scan will be a non-credentialed scan before any updates have been appl
 
 <img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/94d7f073-49bf-4ba5-a5ea-6a15a11e748f" height="80%" width="80%"/>
 </br>
-</br>
 
 12. Click **Register**, and an activation code will be sent to your email.
 
