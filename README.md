@@ -129,7 +129,6 @@ The first scan will be a non-credentialed scan before any updates have been appl
 
 <img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/202622bc-2fb4-43f8-9134-01bb3083c153" height="80%" width="80%"/>
 </br>
-</br>
 
 4. In the box next to **Name**, type in a name for your scan.
 
