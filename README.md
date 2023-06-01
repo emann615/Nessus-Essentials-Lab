@@ -137,7 +137,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
 
 12. Click **Register**, and an activation code will be sent to your email.
 
-13. Find the activation code that was sent to your email
+13. Find the activation code that was sent to your email.
 
 14. Enter the code in the box under **Activation Code**, and click **Continue**.
 
