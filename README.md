@@ -247,7 +247,6 @@ The first scan will be a non-credentialed scan before any updates have been appl
 
 <img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/4b1fb242-d4de-4d9d-aac8-c40afe44f1b1" height="80%" width="80%"/>
 </br>
-</br>
 
 9. Click each scan to review the results.
 
