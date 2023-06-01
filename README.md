@@ -22,6 +22,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * [Part 7: Update Windows Server 2022 on the Domain Controller](#Part-7-Update-Windows-Server-2022-on-the-Domain-Controller)
    * [Part 8: Run Scan 3 (Credentialed) and View the Results](#Part-8-Run-Scan-3-Credentialed-and-View-the-Results)
    * [Results](#Results)
+   * [Conclusion](#Conclusion)
 
 ## Languages and Utilities Used
 
@@ -511,5 +512,7 @@ The remaining medium rank vulnerability appears to be a false positive.
 </br>
 </br>
 
-This lab demostrates the importance of schedueling reqular vulnerability scan agaisnt your networks and devices. It also shows how keeping your systems up to date with the latest patches can drastically reduce the number of vulnerabilities and increase your security posture.
+## Conclusion
+
+This lab demostrates the importance of schedueling regular vulnerability scan agaisnt your networks and devices. It also shows how keeping your systems up to date with the latest patches can drastically reduce the number of vulnerabilities and increase your security posture.
 
