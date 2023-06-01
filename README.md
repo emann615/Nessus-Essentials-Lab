@@ -97,17 +97,54 @@ The first scan will be a non-credentialed scan before any updates have been appl
 5. In the box next to **Targets**, type in the IP address of your domain controller.
 6. Click **Save** to save your scan.
 
+<img src="" height="80%" width="80%"/>
+</br>
+</br>
+
 ### Part 5: Run Scan 1 (Non-credentialed) and View the Results
 
 1. From the **My Scans** page, click the Launch icon to begin running your scan.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/efaa5130-8ccf-4135-b27d-3caed00e4491" height="80%" width="80%"/>
+</br>
+</br>
+
 2. Wait for the scan to finish. You will see a check mark next to the scan once it is complete.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/ae7a5f53-7cb9-4f6e-8c5f-06950c05027f" height="80%" width="80%"/>
+</br>
+</br>
+
 3. Double click the scan to view the results.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/b7c54af8-20d6-4c42-9cbe-12126cb7579f" height="80%" width="80%"/>
+</br>
+</br>
+
 4. In the **Host** tab you will see a bar that displays the vulnerability count and graphical depiction of the vulnerabilities that were found based on percentage.
    * Vulnerabilities are categorized based on their risk level (Critical, High, Medium, Low, Info).
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/5add47d0-3a51-4ac2-8575-a52204700cb0" height="80%" width="80%"/>
+</br>
+</br>
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/8a198ff1-37f7-469e-84fc-0b8f66959091" height="80%" width="80%"/>
+</br>
+</br>
+
 5. Click the bar that displays the vulnerability count to open up a detailed list of specific vulnerabilities that were found.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/08819803-e45d-42df-86b9-b798f549405f" height="80%" width="80%"/>
+</br>
+</br>
+
 6. Click each vulnerability to see more details, including a description and proposed solution for the vulnerability.
 
-<img src="" height="80%" width="80%"/>
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/4c2ff102-109c-44f3-af85-f4a961789290" height="80%" width="80%"/>
+</br>
+</br>
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/e0f0ff21-6a6e-4f50-9859-02536596d384" height="80%" width="80%"/>
 </br>
 </br>
 
