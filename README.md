@@ -107,22 +107,92 @@ The first scan will be a non-credentialed scan before any updates have been appl
 5. Click the bar that displays the vulnerability count to open up a detailed list of specific vulnerabilities that were found.
 6. Click each vulnerability to see more details, including a description and proposed solution for the vulnerability.
 
+<img src="" height="80%" width="80%"/>
+</br>
+</br>
+
 ### Part 6: Run Scan 2 (Credentialed) and View the Results
 
 1. Go back to the **My Scans** page.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/aed078c9-af41-49b6-9c04-f2bffb1a5fe3" height="80%" width="80%"/>
+</br>
+</br>
+
 2. Click the check box next to the scan.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/eaa126ea-a1b0-46f8-9a67-68313f572018" height="80%" width="80%"/>
+</br>
+</br>
+
 3. Click the dropdown arrow next to **More**, and click **Configure**.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/a3b34a4d-e657-4d9d-9d50-38b53e71e95e" height="80%" width="80%"/>
+</br>
+</br>
+
 4. Select the **Credentials** tab, and click **Windows**.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/8d467d39-332a-456e-8b97-e788ef34271f" height="80%" width="80%"/>
+</br>
+</br>
+
 5. Type in the username and password for the admin account you created in Active Directory, and click **Save**.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/cbf02f94-1770-4b6f-bbf6-0f6fc011077e" height="80%" width="80%"/>
+</br>
+</br>
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/d424db6a-26dc-44ea-b7ee-5ad87a8fcaf1" height="80%" width="80%"/>
+</br>
+</br>
+
 6. Go back to the **My Scans** page, and click the **Launch** icon next to the scan to run it.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/f61c610e-dad6-415b-b55b-51fd21332a2c" height="80%" width="80%"/>
+</br>
+</br>
+
 7. Double click the scan to view the results.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/a991a81a-39bc-42e2-8b99-95179ed04868" height="80%" width="80%"/>
+</br>
+</br>
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/9f12d9c3-2c55-45ec-8cfd-5504a6b926f2" height="80%" width="80%"/>
+</br>
+</br>
+
 8. Select the **History** tab to view a list of scans you have completed.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/4b1fb242-d4de-4d9d-aac8-c40afe44f1b1" height="80%" width="80%"/>
+</br>
+</br>
+
 9. Click each scan to review the results.
+
 10. Compare the results of the non-credentialed scan to the results of the credentialed scan you just ran.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/ee3e0be2-10a8-43f8-bdd2-7de23cc223c7" height="80%" width="80%"/>
+</br>
+</br>
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/7bdea49d-d7a8-4901-a607-76523ffa9bdb" height="80%" width="80%"/>
+</br>
+</br>
+
 11. Select the **Vulnerabilities** tab to see a detailed list of vulnerabilities that were found after the credentialed scan.
     * The credentialed scan should find a lot more vulnerabilities than the non-credentialed scan.
 
-<img src="" height="80%" width="80%"/>
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/4eba4023-6d47-4a49-8e70-1b91b3775ebb" height="80%" width="80%"/>
+</br>
+</br>
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/64b1119c-3bf0-4a14-b96c-960302cabe6c" height="80%" width="80%"/>
+</br>
+</br>
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/7ef5a035-6efa-4c87-b082-e90a8dab419d" height="80%" width="80%"/>
 </br>
 </br>
 
