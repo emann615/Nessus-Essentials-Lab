@@ -90,7 +90,6 @@ The first scan will be a non-credentialed scan before any updates have been appl
 
 <img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/d22af83c-6d69-4bfd-b3f4-0e3fffecbb47" height="80%" width="80%"/>
 </br>
-</br>
 
 2. Click **Start**, and type cmd.
 
