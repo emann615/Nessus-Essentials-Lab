@@ -52,13 +52,13 @@ The first scan will be a non-credentialed scan before any updates have been appl
 2. Log in to the **PC 1** virtual machine using the admin account you created in Active Directory.
 3. Open **Microsoft Edge**.
 
-<img src="" height="80%" width="80%"/>
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/71f1b919-4fa3-460b-a507-66b049a32143" height="80%" width="80%"/>
 </br>
 </br>
 
 4. Go to the following link: https://www.tenable.com/downloads/nessus 
 
-<img src="" height="80%" width="80%"/>
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/b009fcfd-871c-4659-adc0-cede46fe6750" height="80%" width="80%"/>
 </br>
 </br>
 
