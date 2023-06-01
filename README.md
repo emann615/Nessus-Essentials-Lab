@@ -122,15 +122,48 @@ The first scan will be a non-credentialed scan before any updates have been appl
 11. Select the **Vulnerabilities** tab to see a detailed list of vulnerabilities that were found after the credentialed scan.
     * The credentialed scan should find a lot more vulnerabilities than the non-credentialed scan.
 
+<img src="" height="80%" width="80%"/>
+</br>
+</br>
+
 ### Part 7: Update Windows Server 2022 on the Domain Controller
 
 1. Go back to the **DC** virtual machine, and log in.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/c9c75a24-5c98-48c3-bdb6-6f413f80954c" height="80%" width="80%"/>
+</br>
+</br>
+
 2. Click **Start**, and select **Settings**.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/997bf378-da9d-47fe-bf14-68364dc89c2c" height="80%" width="80%"/>
+</br>
+</br>
+
 3. Click **Updates and Security**.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/4202ccb9-2336-4992-b6f4-f23804ef32f5" height="80%" width="80%"/>
+</br>
+</br>
+
 4. Click **Windows Update**.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/08b186a9-6e0d-461e-88e3-a1d06d8be9c0" height="80%" width="80%"/>
+</br>
+</br>
+
 5. Click **Install now** to install the updates.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/9c8c1c7d-03e3-47df-9a71-3aa1c02419db" height="80%" width="80%"/>
+</br>
+</br>
+
 6. Keep installing updates until your system is completely up to date.
    * You may be required to restart the machine several times to apply the updates.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/c98f04b5-4c45-41fa-94ed-e9aae9305ca2" height="80%" width="80%"/>
+</br>
+</br>
 
 ### Part 8: Run Scan 3 (Credentialed) and View the Results
 
