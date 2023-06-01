@@ -484,7 +484,6 @@ The first scan was a non-credentialed scan before any updates were applied to th
 
 The second scan was a credentialed scan before any updates were applied to the domain controller. This scan produced 10 critical, 7 high, 6 medium, 1 low, and 240 info results. Since this scan was configured with the proper credentials, a lot more results were produced.
 
-
 ### Scan 3 (Credentialed) Results
 | Risk Raiting | Count | Percentage |
 | --- | --- | --- |
@@ -495,5 +494,22 @@ The second scan was a credentialed scan before any updates were applied to the d
 | Info | 90 | 97.83% |
 | **Total** | **92** | **100.00%** |
 
-The third scan was a credentialed scan after updates had been applied to the domain controller. The results of this scan showed far less vulnerabilities than the previous credentialed scan I ran before updates were applied.This scan produced 1 medium, 1 low, and 90 info results. All of the critical and high level vulnerabilities were fixed, and the medium rank vulnerability appears to be a false positive. By making sure the operating system on my domain controller is completely up to date with all the latest patches, I was able to drastically reduce the number of vulnerabilities and increase its security posture.
+The third scan was a credentialed scan after updates had been applied to the domain controller. The results of this scan showed far less vulnerabilities than the previous credentialed scan I ran before updates were applied.This scan produced 1 medium, 1 low, and 90 info results. All of the critical and high level vulnerabilities were fixed.
+
+#### False Positive Result
+The remaining medium rank vulnerability appears to be a false positive. 
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/1e3f52e4-7ea2-4b4d-af2c-c57890a590f2" height="80%" width="80%"/>
+</br>
+</br>
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/16055178-dfae-4d25-ba72-5f27c5b9a263" height="80%" width="80%"/>
+</br>
+</br>
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/e2f6d5fc-4ef6-4bc3-afa7-a5da638c12df" height="80%" width="80%"/>
+</br>
+</br>
+
+This lab demostrates the importance of schedueling reqular vulnerability scan agaisnt your networks and devices. It also shows how keeping your systems up to date with the latest patches can drastically reduce the number of vulnerabilities and increase your security posture.
 
