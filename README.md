@@ -80,15 +80,35 @@ The first scan will be a non-credentialed scan before any updates have been appl
 19. Copy and save the local URL for Nessus so it is easy to access in the future.
     * **Nessus URL:**  https://localhost:8834/# 
 
+<img src="" height="80%" width="80%"/>
+</br>
+</br>
+
 ### Part 3: Find the IP Address of the Domain Controller
 
 1. Go to the **DC** virtual machine, and log in.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/d22af83c-6d69-4bfd-b3f4-0e3fffecbb47" height="80%" width="80%"/>
+</br>
+</br>
+
 2. Click **Start**, and type cmd.
+
 3. Hit **Enter** to open **Command Prompt**.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/bbb2a3c4-83c1-4d00-8ae6-6c497f3ed07e" height="80%" width="80%"/>
+</br>
+</br>
+
 4. Type **ipconfig** into Command Prompt, and hit **Enter**.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/d8d69dcb-ac33-4705-949d-cd13e30d20ad" height="80%" width="80%"/>
+</br>
+</br>
+
 5. Find the address next to **IPv4 Address**.
 
-<img src="" height="80%" width="80%"/>
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/be8e4267-95e5-4385-b0c0-ad8fc45042b1" height="80%" width="80%"/>
 </br>
 </br>
 
