@@ -88,16 +88,41 @@ The first scan will be a non-credentialed scan before any updates have been appl
 4. Type **ipconfig** into Command Prompt, and hit **Enter**.
 5. Find the address next to **IPv4 Address**.
 
+<img src="" height="80%" width="80%"/>
+</br>
+</br>
+
 ### Part 4: Create a New Scan in Nessus
 
 1. Go back to the **PC 1** virtual machine.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/baa96c4c-0bd1-473c-af1b-58576a131584" height="80%" width="80%"/>
+</br>
+</br>
+
 2. Click **Create a new scan** in Nessus.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/8208c32f-d8e2-44a5-9aeb-ad7b0198ce2e" height="80%" width="80%"/>
+</br>
+</br>
+
 3. Click **Basic Network Scan**.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/202622bc-2fb4-43f8-9134-01bb3083c153" height="80%" width="80%"/>
+</br>
+</br>
+
 4. In the box next to **Name**, type in a name for your scan.
+
 5. In the box next to **Targets**, type in the IP address of your domain controller.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/22deeb57-a232-4a89-aef0-9df44cf58450" height="80%" width="80%"/>
+</br>
+</br>
+
 6. Click **Save** to save your scan.
 
-<img src="" height="80%" width="80%"/>
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/f4f61d26-f7fa-436e-aeb4-6ff59e55c976" height="80%" width="80%"/>
 </br>
 </br>
 
