@@ -135,10 +135,33 @@ The first scan will be a non-credentialed scan before any updates have been appl
 ### Part 8: Run Scan 3 (Credentialed) and View the Results
 
 1. Go back to the **PC 1** virtual machine and log in.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/290cd7bc-572f-478f-bd4f-41e38b72ab75" height="80%" width="80%"/>
+</br>
+</br>
+
 2. From the **My Scans** page inside Nessus, click the **Launch** icon to begin running your second credentialed scan.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/a07b3551-2218-41ac-a807-2f9b9eff69b9" height="80%" width="80%"/>
+</br>
+</br>
+
 3. Once the scan is complete, double click it to review the results.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/b89a5511-4b7b-4a1f-966b-370a9bfda8e4" height="80%" width="80%"/>
+</br>
+</br>
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/98d88351-8b3c-4283-9887-8bb51fd6b2f5" height="80%" width="80%"/>
+</br>
+</br>
+
 4. Select the **History** tab to compare the results of the three scans.
    * Most of the vulnerabilities found after the first credentialed scan should now be fixed.
+
+<img src="https://github.com/emann615/MicrosoftSentinelLab/assets/117882385/b4463f02-4dee-486d-a936-670156fbc168" height="80%" width="80%"/>
+</br>
+</br>
 
 ## Results
 
