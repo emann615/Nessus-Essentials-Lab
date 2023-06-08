@@ -44,7 +44,7 @@ The first scan will be a non-credentialed scan before any updates have been appl
    * Create a second virtual machine (PC 1) running Windows 10.
    * Connect the PC 1 virtual machine to the domain.
 
-## Walk-through
+## Walk-Through
 
 ### Part 1: Download Nessus on the PC 1 VM
 
